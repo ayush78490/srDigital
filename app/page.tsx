@@ -225,37 +225,37 @@ export default function Home() {
                   title: "Product Engineering",
                   icon: "🧩",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "We provide end-to-end product development services, ensuring your ideas are transformed into scalable and efficient solutions.",
                 },
                 {
                   title: "UX/UI Design",
                   icon: "🎨",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Crafting intuitive and visually appealing designs to enhance user experience and engagement.",
                 },
                 {
                   title: "Big Data & Analytics",
                   icon: "📊",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Unlock the power of data with our analytics solutions, enabling informed decision-making and business growth.",
                 },
                 {
                   title: "Digital Marketing",
                   icon: "📱",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Boost your online presence with targeted marketing strategies tailored to your business needs.",
                 },
                 {
                   title: "Business Strategy",
                   icon: "💼",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Developing actionable strategies to drive growth and achieve your business objectives.",
                 },
                 {
                   title: "Graphics Design",
                   icon: "🎭",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Creating stunning visuals and branding materials to leave a lasting impression on your audience.",
                 },
               ].map((service, i) => (
                 <div
@@ -491,37 +491,37 @@ export default function Home() {
                   title: "Business Strategy",
                   icon: "💼",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Strategic planning to help your business navigate challenges and seize opportunities.",
                 },
                 {
                   title: "Web Development",
                   icon: "💻",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Building responsive and high-performing websites tailored to your business goals.",
                 },
                 {
                   title: "Digital Marketing",
                   icon: "📱",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Implementing innovative marketing campaigns to connect with your target audience effectively.",
                 },
                 {
                   title: "Graphics Design",
                   icon: "🎭",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Designing creative and impactful visuals to elevate your brand identity.",
                 },
                 {
                   title: "Content Creation",
                   icon: "✍️",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Producing engaging and high-quality content to captivate your audience and drive conversions.",
                 },
                 {
                   title: "SEO Optimization",
                   icon: "🔍",
                   description:
-                    "Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida magna a nunc placerat amet molestie.",
+                    "Enhancing your website's visibility on search engines to attract more organic traffic.",
                 },
               ].map((service, i) => (
                 <div
@@ -721,18 +721,18 @@ export default function Home() {
               <div className="mt-4 space-y-2">
                 <div className="flex items-center gap-2 text-zinc-400">
                   <Phone className="h-4 w-4 text-orange-500" />
-                  <span>+123 456 7890</span>
+                  <span>+91 1234567890</span>
                 </div>
                 <div className="flex items-center gap-2 text-zinc-400">
                   <Mail className="h-4 w-4 text-orange-500" />
-                  <span>info@loxi.com</span>
+                  <span>srdigital@gmail.com</span>
                 </div>
               </div>
             </div>
           </div>
 
           <div className="border-t border-zinc-800 pt-8 text-center">
-            <p className="text-zinc-500">&copy; {new Date().getFullYear()} Loxi. All rights reserved.</p>
+            <p className="text-zinc-500">&copy; {new Date().getFullYear()} SR Digital. All rights reserved.</p>
           </div>
         </div>
       </footer>

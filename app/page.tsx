@@ -32,6 +32,13 @@ export default function Home() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <Link href="/" className="text-2xl font-bold text-white z-20">
+            {/* <Image
+            src="/logo.png?height=5&width=5"
+            alt="Business illustration"
+            width={600}
+            height={500}
+            className="object-contain"
+            /> */}
               SR Digital
             </Link>
 
@@ -309,7 +316,7 @@ export default function Home() {
                 </p>
                 <div className="flex items-center">
                   <div>
-                    <p className="font-bold">John Doe, CEO at Acme</p>
+                    <p className="font-bold">Sumit Raj, CEO at SR Digital</p>
                     <p className="text-zinc-400 text-sm">Software Development</p>
                   </div>
                 </div>
@@ -564,7 +571,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
             <div>
               <Link href="/" className="text-2xl font-bold text-white mb-4 inline-block">
-                Loxi
+                SR DIGITAL
               </Link>
               <p className="text-zinc-400 mb-4">
                 We are your one-stop solution for building brands that make an impact in the digital world.

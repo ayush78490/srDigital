@@ -564,7 +564,7 @@ export default function ServicePage({ params }: { params: { slug: string } }) {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-12">
               <Link href="/" className="text-2xl font-bold text-white">
-                Loxi
+                SR DIGITAL
               </Link>
               <nav className="hidden md:flex items-center justify-center absolute left-0 right-0 mx-auto w-fit space-x-8">
                 <Link href="/" className="text-white hover:text-orange-500 transition-colors">
@@ -785,7 +785,7 @@ export default function ServicePage({ params }: { params: { slug: string } }) {
       <footer className="bg-zinc-900 pt-16 pb-8">
         <div className="container mx-auto px-4">
           <div className="border-t border-zinc-800 pt-8 text-center">
-            <p className="text-zinc-500">&copy; {new Date().getFullYear()} Loxi. All rights reserved.</p>
+            <p className="text-zinc-500">&copy; {new Date().getFullYear()} SR DIGITAL. All rights reserved.</p>
           </div>
         </div>
       </footer>

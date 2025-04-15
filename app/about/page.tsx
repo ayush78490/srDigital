@@ -34,9 +34,9 @@ export default function AboutPage() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-12">
               <Link href="/" className="text-2xl font-bold text-white">
-                Loxi
+                SR DIGITAL
               </Link>
-              <nav className="hidden md:flex items-center space-x-8">
+              <nav className="hidden md:flex items-center mx-80 space-x-8">
                 <Link href="/" className="text-white hover:text-orange-500 transition-colors">
                   Home
                 </Link>
@@ -97,9 +97,9 @@ export default function AboutPage() {
                 <div className="inline-block px-3 py-1 bg-zinc-800 rounded-full text-orange-500 text-sm font-medium mb-4">
                   OUR STORY
                 </div>
-                <h2 className="text-3xl md:text-4xl font-bold mb-6">Building digital experiences since 2010</h2>
+                <h2 className="text-3xl md:text-4xl font-bold mb-6">Building digital experiences since 2018</h2>
                 <p className="text-zinc-400 mb-4">
-                  Loxi was founded with a simple mission: to help businesses harness the power of digital technology to
+                  SR DIGITAL was founded with a simple mission: to help businesses harness the power of digital technology to
                   grow and succeed. What started as a small team of passionate developers has grown into a full-service
                   digital agency with a global client base.
                 </p>
@@ -114,7 +114,7 @@ export default function AboutPage() {
                 <div className="absolute -top-4 -left-4 w-24 h-24 bg-orange-500/20 rounded-lg"></div>
                 <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-orange-500/20 rounded-lg"></div>
                 <Image
-                  src="/placeholder.svg?height=500&width=500"
+                  src="/HeroImg.png?height=500&width=500"
                   alt="Our story"
                   width={500}
                   height={500}
@@ -177,7 +177,7 @@ export default function AboutPage() {
               <div className="inline-block px-3 py-1 bg-zinc-800 rounded-full text-orange-500 text-sm font-medium mb-4">
                 OUR TEAM
               </div>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">Meet the people behind Loxi</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">Meet the people behind SR DIGITAL</h2>
               <p className="text-zinc-400 max-w-2xl mx-auto">
                 Our team of experts is passionate about helping businesses succeed in the digital world.
               </p>
@@ -279,7 +279,7 @@ export default function AboutPage() {
       <footer className="bg-zinc-900 pt-16 pb-8">
         <div className="container mx-auto px-4">
           <div className="border-t border-zinc-800 pt-8 text-center">
-            <p className="text-zinc-500">&copy; {new Date().getFullYear()} Loxi. All rights reserved.</p>
+            <p className="text-zinc-500">&copy; {new Date().getFullYear()} SR DIGITAL. All rights reserved.</p>
           </div>
         </div>
       </footer>

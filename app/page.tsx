@@ -158,8 +158,8 @@ export default function Home() {
                   Give your business a <span className="text-orange-500">worldwide platform</span>
                 </h1>
                 <p className="text-zinc-400 text-lg max-w-lg">
-                  Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida
-                  magna a nunc placerat amet molestie. Eget massa dolor et nunc.
+                  We are your one-stop solution for building brands that make an impact in the digital world. Our
+                  expertise spans across various domains, ensuring your business stands out in the crowded market.
                 </p>
                 <Link href="/discover-more">
                   <Button className="bg-orange-500 hover:bg-orange-600 text-white px-6 py-6 h-auto">
@@ -186,8 +186,9 @@ export default function Home() {
             <div className="text-center mb-12">
               <h2 className="text-2xl md:text-3xl font-bold mb-4">Best agencies choose their clients wisely</h2>
               <p className="text-zinc-400 max-w-2xl mx-auto">
-                Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida
-                magna a nunc placerat amet molestie.
+                According to our custormers, we are the best in the business. We have been
+                providing top-notch services to our clients for over a decade. Our team of experts is dedicated to
+                delivering the best results for your business.              
               </p>
             </div>
 
@@ -219,10 +220,11 @@ export default function Home() {
               <div className="inline-block px-3 py-1 bg-zinc-800 rounded-full text-orange-500 text-sm font-medium mb-4">
                 OUR FEATURES
               </div>
-              <h2 className="text-3xl md:text-4xl font-bold">Best agencies choose their clients wisely</h2>
+              <h2 className="text-3xl md:text-4xl font-bold">Best services of every features</h2>
               <p className="text-zinc-400 max-w-2xl mx-auto mt-4">
-                Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida
-                magna a nunc placerat amet molestie.
+                Our company provides a varity of services to help you grow your business. We are
+                dedicated to providing the best services to our clients. Our team of experts is here to help you
+                achieve your goals.
               </p>
             </div>
 
@@ -353,8 +355,9 @@ export default function Home() {
               </div>
               <h2 className="text-3xl md:text-4xl font-bold">Engaging more, refreshing results. We trust you</h2>
               <p className="text-zinc-400 max-w-2xl mx-auto mt-4">
-                Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida
-                magna a nunc placerat amet molestie.
+                We are a team of dedicated professionals who are passionate about what we do. Our mission is to help
+                businesses like yours succeed in the digital world. We believe in building long-term relationships with
+                our clients and providing them with the best possible service.
               </p>
             </div>
 
@@ -380,8 +383,7 @@ export default function Home() {
                 <div>
                   <h3 className="text-xl font-bold mb-3">Advertising & Branding</h3>
                   <p className="text-zinc-400">
-                    Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit
-                    gravida magna a nunc placerat amet molestie.
+                    Advertsing and branding makes the company more popular. We are here to help you with that.
                   </p>
                 </div>
               </div>
@@ -408,8 +410,7 @@ export default function Home() {
                 <div>
                   <h3 className="text-xl font-bold mb-3">Mobile Responsive</h3>
                   <p className="text-zinc-400">
-                    Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit
-                    gravida magna a nunc placerat amet molestie.
+                    Our services provides you with the best mobile responsive website. We are here to help you with that.
                   </p>
                 </div>
               </div>
@@ -434,8 +435,8 @@ export default function Home() {
                 <div>
                   <h3 className="text-xl font-bold mb-3">Secure & Reliable</h3>
                   <p className="text-zinc-400">
-                    Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit
-                    gravida magna a nunc placerat amet molestie.
+                    Security and Reliability is one of the most important thing in a website. We provides the best security
+                    and reliability for your website. We are here to help you with that.
                   </p>
                 </div>
               </div>
@@ -461,8 +462,8 @@ export default function Home() {
                 <div>
                   <h3 className="text-xl font-bold mb-3">24/7 Support</h3>
                   <p className="text-zinc-400">
-                    Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit
-                    gravida magna a nunc placerat amet molestie.
+                    For constumor support our team is available 24/7. Whenever whatever you just make a call or send a mail and we are here to
+                    help you. We are here to help you with that.
                   </p>
                 </div>
               </div>
@@ -487,8 +488,7 @@ export default function Home() {
               </div>
               <h2 className="text-3xl md:text-4xl font-bold">We provide creative solutions for your business</h2>
               <p className="text-zinc-400 max-w-2xl mx-auto mt-4">
-                Lorem ipsum dolor sit amet consectetur. Auctor pretium porttitor ut vel. Ut consequat blandit gravida
-                magna a nunc placerat amet molestie.
+                For every business the solution should be creative so that user can use it easily and we make our best solution to your business.
               </p>
             </div>
 
